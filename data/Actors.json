@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Zhen","characterIndex":0,"characterName":"zhen-sheet%(4)","classId":1,"equips":[1,1,0],"faceIndex":0,"faceName":"Zhen","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zhen","nickname":"","note":"","profile":"A smuggler who learned martial arts in the street"},
+{"id":1,"battlerName":"Zhen","characterIndex":0,"characterName":"zhen-sheet_frames(4)","classId":1,"equips":[1,1,0],"faceIndex":0,"faceName":"Zhen","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zhen","nickname":"","note":"","profile":"A smuggler who learned martial arts in the street"},
 {"id":2,"battlerName":"Bandaid","characterIndex":0,"characterName":"Bandaid","classId":2,"equips":[2,2,0],"faceIndex":0,"faceName":"Bandaid","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bandaid","nickname":"","note":"","profile":"Ex-military medic turned street merc"}
 ]
