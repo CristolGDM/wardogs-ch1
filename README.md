@@ -18,4 +18,4 @@ So this game has one original sprite. That's it. It's a very good one though
 
 [itch.io page](https://mikalichou.itch.io/wardogs)
 
-[or you can play it directly here](https://cristolgdm.com/games/wardogs/)
+[or you can play it directly here](https://pixel-breath.com/games/wardogs/)
