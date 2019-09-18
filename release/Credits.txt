@@ -1,0 +1,8 @@
+Dungeon layout:
+https://donjon.bin.sh/d20/dungeon/
+
+Font:
+Monogram extended
+https://datagoblin.itch.io/monogram
+
+V1: 15h
